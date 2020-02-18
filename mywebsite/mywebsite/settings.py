@@ -83,18 +83,6 @@ DATABASES = {
     }
 }
 
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.mysql',
-#         'NAME': 'cdgus1514',
-#         'USER': 'cdgus1514',
-#         'PASSWORD': 'Chlehd131312',
-#         'HOST': 'cdgus1514.cafe24.com',
-#         'PORT': '3306'
-#     }
-# }
-
-
 # Password validation
 # https://docs.djangoproject.com/en/3.0/ref/settings/#auth-password-validators
 
